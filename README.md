@@ -1,8 +1,8 @@
-## Olá Mundo
+## Olá Mundo!
 
-#Meu Nome é João Penna.
+# Meu Nome é João Penna.
 
-#Sou um analista de dados em formação.
+# Sou um analista de dados em formação.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
