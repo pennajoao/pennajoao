@@ -57,14 +57,7 @@ Análise de dados de um hotel com Python e Jupyter Notebook.
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pennajoao&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pennajoao&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-
----
 
 ## 🎓 Formação
 
@@ -73,7 +66,7 @@ Análise de dados de um hotel com Python e Jupyter Notebook.
 | Tecnólogo em ADS | IBMR | Em andamento (2024–2026) |
 | Análise de Dados | SENAC RJ | Em andamento (2026) |
 | Auxiliar Administrativo | FIRJAN SENAI | Concluído (2025) |
-| Formação Militar | CPOR | Concluído (2023) |
+
 
 ---
 
